@@ -1,5 +1,12 @@
 # Express.js X Typescript server
 
-## How to 
-- build: `npm run build`
-- start: `npm run dev`
+## How to
+
+- start: `npm run start`
+
+## Features
+
+- CRUD
+- Streams
+- GraphQL
+- Global error handling
