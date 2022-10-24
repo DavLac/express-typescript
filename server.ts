@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
-import app from '../app';
-import Logger from './config/logger';
+import app from './src/app';
+import Logger from './src/config/logger';
 
 const port = process.env.PORT;
 

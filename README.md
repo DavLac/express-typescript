@@ -1,4 +1,4 @@
-# Express.js X Typescript server
+# Express.js x Typescript server
 
 ## How to
 
@@ -9,4 +9,4 @@
 - CRUD
 - Streams
 - GraphQL
-- Global error handling
+- Middlewares
